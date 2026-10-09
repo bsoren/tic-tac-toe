@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (tic-tac-toe)" />
+  </component>
+  <component name="MaterialThemeProjectNewConfig">
+    <option name="metadata">
+      <MTProjectMetadataState>
+        <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="13cccf08:19d5767118f:-7ffd" />
+      </MTProjectMetadataState>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (tic-tac-toe)" project-jdk-type="Python SDK" />
+</project>
